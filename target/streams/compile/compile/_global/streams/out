@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/home/tiburcio/Documentos/2020-1/POO/patrondiseño/src/main/scala/Factories/Cliente.scala:33:15: value mostar is not a member of Vehiculos.Camioneta[0m
+[0m[[0m[31merror[0m] [0m[0mdid you mean mostrar?[0m
+[0m[[0m[31merror[0m] [0m[0m    camioneta.mostar()[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
